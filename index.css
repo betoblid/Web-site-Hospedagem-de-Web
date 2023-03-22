@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins";
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:  #fff;
+}
+.container img{
+    width: 80px;
+}
+.container a{
+    color: black;
+    padding: 0 5px;
+    text-decoration: none;
+}
+.card1 p{
+    color:  rgba(47, 134, 214, 1);
+}
+.card1{
+    display: flex;
+}
+.card-link a:hover{
+    padding-bottom: 7px;
+    border-bottom: 3px solid black;
+}
+/*imagem de fundo*/
+.image-fundo{
+    background-color:  rgba(47, 134, 214, 1);
+    width: 100vw;
+    height: 80vh;
+    background-image: url("imagem-banner.png");
+    background-position: 50vw;
+    background-repeat: no-repeat;
+}
+.image-fundo{
+    display: flex;
+    align-items: center;
+    
+}
+.texto h2{
+    font-size: 32px;
+}
+.texto{
+    margin-left: 10vw;
+    box-sizing: border-box;
+    width: 40vw;
+    color: #fff;
+    
+}
+/*container informaçoes com um botao e um texto*/
+.anuncio{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    background-color: #233032;
+    color: #fff;
+    padding: 20px 0;
+}
+.anuncio a{
+    background-color: rgba(47, 134, 214, 1);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+}
+.anuncio a:hover{
+    background-color: #028094;
+}
+/*informação com ima lista e um subtitulo*/
+.informaçao img{
+    width: 80px;
+}
+.container-informaçao h2{
+    text-align: center;
+    margin-top: 80px;
+}
+.informaçao{
+    width: 60vw;
+    margin: 70px auto;
+    text-align: center;
+    display: flex;
+}
+table img{
+    width: 80px;
+}
+.container-plano h2{
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+    width: 50%;
+    margin: 100px auto;
+    box-shadow: 0 0 15px 10px rgba(47, 134, 214, 1);
+
+}
+table p{
+    color: #a89f9f;
+    font-size: 12px;
+}
+td, th{
+    padding: 15px 10px;
+}
+td{
+    font-size: 14px;
+}
+.branco{
+    background-color: #f1f3f7;
+}
+.container-anuncio-2{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(47, 134, 214);
+    padding: 20px 0px;
+}
+.container-anuncio-2 h2{
+    width: 50vw;
+    
+    font-size: 20px;
+    color: #fff;
+    padding-right: 40px;
+}
+.container-anuncio-2 a{
+    background-color: #233032;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 7px;
+    padding: 20px 20px;
+}
+.container-anuncio-2 a:hover{
+    background-color: #757575;
+}
+/*roda pe*/
+.contato img{
+    width: 80px;
+}
+.contato{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-rodape{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0;
+}
+.container-rodape p{
+    margin: 15px 0;
+}
+
+span{
+    color: rgb(47, 134, 214);
+}
+.author{
+    text-align: center;
+    padding: 25px 0;
+}
+.author a{
+    text-decoration: none;
+    color: rgb(47, 134, 214);
+    font-size: 18px;
+}
+

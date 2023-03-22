@@ -1,0 +1,8 @@
+primeiro ele não está 100% responsivo estou trabalhando para isso.
+com o uso de midia queri e irei fazer o backup aqui no git
+
+esse é mas uma ideia, tinha planos de colocar um botão de compras mas pensei bem e não valeria a pena pois o site poderia sofrer reits
+e acabar saindo do AR
+
+
+proposito do site é demonstra meus conhecimentos com HTML E CSS avançado e designer de WEB sites, para Clientes e empresas
